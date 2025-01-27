@@ -30,3 +30,9 @@ thead{
 .tabella{
     background-color: rgb(84, 163, 228);
 }
+
+.foto{
+    background-image:url(/img/monitor.jpg);
+    background-size:cover;
+    
+}
