@@ -1,7 +1,9 @@
 h1{
     color:white;
-    background-color: black;
-    
+    background-color: rgb(76, 86, 231);
+    background-image:url(/img/pattern.png) ;
+    background-repeat:repeat-x;
+    background-size: contain;
 }
 
 h4{
