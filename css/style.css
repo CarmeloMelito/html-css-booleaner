@@ -21,3 +21,12 @@ span{
     background-color: yellow;
     color: black;
 }
+thead{
+    background-color: rgb(16, 128, 194);
+    color: white;
+    text-align:left;
+    
+}
+.tabella{
+    background-color: rgb(84, 163, 228);
+}
