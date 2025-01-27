@@ -2,8 +2,8 @@ h1{
     color:white;
     background-color: rgb(76, 86, 231);
     background-image:url(/img/pattern.png) ;
-    background-repeat:repeat-x;
-    background-size: contain;
+    background-repeat:repeat;
+   background-size: 15%;
 }
 
 h4{
@@ -17,3 +17,7 @@ span{
     color: gray;
 }
 
+.giallo{
+    background-color: yellow;
+    color: black;
+}
